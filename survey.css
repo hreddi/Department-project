@@ -1,0 +1,127 @@
+header {
+    border: 5px solid #006633;
+    padding: 5px;
+    box-shadow: 0px 4px 8px rgba(239, 205, 16, 0.5); /* Styling for box shadow */
+  }
+
+  h1 {
+    color: #006633; /* Red color */
+}
+
+  .logo {
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    width: 200px; /* Adjust the width as needed */
+    height: auto;
+}
+  
+body {
+    background-color: #f2f2f2 /* Light gray background */
+  }
+
+
+  .center-text {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 70%; /* Adjust the max-width as needed */
+  }
+
+.programs{
+    text-align: left;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+.programs ul li {
+    font-size: 18px; /* Adjust the font size as needed */
+}
+
+ul {
+    list-style-color: #006633; /* Green color */
+}
+
+.programs ul li {
+    font-size: 18px; /* Adjust the font size as needed */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px; /* Adjust the margin as needed */
+}
+
+th, td {
+    width: 0.05%;
+    padding: 5px; /* Adjust the padding as needed */
+    text-align: left;
+    border-bottom: 1px solid #FFCC33 ; /* Add a bottom border for better separation */
+}
+
+h4{
+  background-color:#006633;
+  color:   rgb(247, 243, 243);
+  border: 5px #006633 solid;
+}
+
+h2{
+  background-color:#006633;
+  color:   rgb(247, 243, 243);
+  border: 5px #006633 solid;
+}
+
+.text{
+  background-color: #FFCC33;
+  color:   rgb(247, 243, 243);
+  border: 5px #FFCC33  solid;
+}
+
+footer {
+    padding: 100px;
+    text-align: center;
+  }
+
+.form-floating.mb-3{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 70%;
+  }
+
+.enq {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+.enq1 {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 82%;
+}
+
+.form-check.form-check-inline {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+.form-floating{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+.dropdown {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 82%;
+}
+
+footer {
+    padding: 300px;
+    text-align: center;
+  }
+
+
+
+
