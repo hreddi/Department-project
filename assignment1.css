@@ -1,16 +1,14 @@
-/* Add these styles to your existing CSS */
-
 header {
     border: 5px;
     padding: 5px;
   }
 
   h1 {
-    color: #006633; /* Red color */
+    color: #006633;
 }
   
 body {
-    background-color: #f2f2f2; /* Light gray background */
+    background-color: #f2f2f2; 
   }
 
   .column {
@@ -19,7 +17,7 @@ body {
     padding: 10px;
   }
   
-  /* Clear floats after the columns */
+
   .row:after {
     content: "";
     display: table;
@@ -30,7 +28,7 @@ body {
 .center-text {
     text-align: left;
     margin: 0 auto;
-    max-width: 70%; /* Adjust the max-width as needed */
+    max-width: 70%; 
   }
 
 .programs{
@@ -40,24 +38,24 @@ body {
 }
 
 .programs ul li {
-    font-size: 18px; /* Adjust the font size as needed */
+    font-size: 18px; 
 }
 
 .programs ul li {
-    font-size: 18px; /* Adjust the font size as needed */
+    font-size: 18px;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 20px; /* Adjust the margin as needed */
+    margin-top: 20px; 
 }
 
 th, td {
     width: 0.05%;
-    padding: 5px; /* Adjust the padding as needed */
+    padding: 5px; 
     text-align: left;
-    border-bottom: 1px solid #ddd; /* Add a bottom border for better separation */
+    border-bottom: 1px solid #ddd; 
 }
 
 footer {
